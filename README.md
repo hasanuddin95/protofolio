@@ -6,7 +6,7 @@
 <a href="https://github.com/hasanuddin95/protofolio/blob/main/supermarket_sales.csv">Data Set<a/>
 ## Quetions KPIs
 
-1. Which Kategori Product got the highest sales?
+- Which Kategori Product got the highest sales?
 2. Which Kategori Product got the highest sales?
 3. Which City got the highest sales
 4. how much proportions sales betwen member costumers 5. and not member ?
@@ -16,7 +16,7 @@
 ## Proses
 1. Verify data for any missing values and anomalies, and sort out the same.
 2. Made sure data is consistent and clean with respect 3. to data type, data format and values used.
-Created pivot tables according to the questions asked.
+3. Created pivot tables according to the questions asked.
 
 ## Project Insght
 1. food and beverages are produch which got the higest sales with total sales 53471 dolar or 17,4% and halth and beauty are lowest sales with total sales 46851 dolar or 15,2%
