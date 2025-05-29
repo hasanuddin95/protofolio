@@ -1,11 +1,10 @@
-# protofolio
+# Portofolio Dana Analysis Sales Performance
 
--<a href = "https://github.com/hasanuddin95/protofolio/blob/main/supermarket_sales.csv">Data Sales</a>
--Kategori Produk <a href="https://github.com/hasanuddin95/protofolio/blob/main/kategori%20produk.jpg">View Table<a/>
 #Project Objective
-#sales performance analysis for supermarket sales
-#DATA SET
-#Quetions KPIs
+##sales performance analysis for supermarket sales
+##DATA SET
+<a href="https://github.com/hasanuddin95/protofolio/blob/main/supermarket_sales.csv">Data Set<a/>
+##Quetions KPIs
 
 1. Which Kategori Product got the highest sales?
 2. Which Kategori Product got the highest sales?
