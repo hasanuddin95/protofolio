@@ -1,10 +1,10 @@
-# Portofolio Dana Analysis Sales Performance
+# Portofolio Analysis Sales Performance
 
-#Project Objective
-##sales performance analysis for supermarket sales
-##DATA SET
+# Project Objective
+## sales performance analysis for supermarket sales
+## DATA SET
 <a href="https://github.com/hasanuddin95/protofolio/blob/main/supermarket_sales.csv">Data Set<a/>
-##Quetions KPIs
+## Quetions KPIs
 
 1. Which Kategori Product got the highest sales?
 2. Which Kategori Product got the highest sales?
