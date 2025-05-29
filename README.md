@@ -18,11 +18,11 @@
 - Created pivot tables according to the questions asked.
 
 ## Project Insght
-- food and beverages are produch which got the higest sales with total sales 53471 dolar or 17,4% and halth and beauty are lowest sales with total sales 46851 dolar or 15,2%
+- Food and Beverages are product which got the highest sales with total sales 53471 dolar or 17,4%, health and beauty are lowest sales with total sales 46851 dolar or 15,2%
   
   ![kategori produk](https://github.com/user-attachments/assets/820de45c-71cb-4d01-be80-6eaa424c765d)
 
-- Januari is a month which have the highest sales 110754 dolar, and februari is a month which have the lowest sales
+- January is a month which have the highest sales 110754 dolar, and february  is a month which have the lowest sales
   
   ![Tren sales per month](https://github.com/user-attachments/assets/93c73906-1a42-4a7a-9784-df2914001c73)
   
