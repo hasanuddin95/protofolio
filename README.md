@@ -19,6 +19,8 @@
 
 ## Project Insght
 - food and beverages are produch which got the higest sales with total sales 53471 dolar or 17,4% and halth and beauty are lowest sales with total sales 46851 dolar or 15,2%
+  ![kategori produk](https://github.com/user-attachments/assets/820de45c-71cb-4d01-be80-6eaa424c765d)
+
 - Januari is a month which have the highest sales 110754 dolar, and februari is a month which have the lowest sales
 - Natpyitaw is a cith which have the highest sales with total sales more than 100000 dolar
 - and base on proportions sales between member and non member, member have proportions more than 50,8%, This shows that members have a big impact on sales
